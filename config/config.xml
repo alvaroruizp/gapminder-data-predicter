@@ -1,0 +1,17 @@
+<config>
+  
+  <input>
+    
+    <csv>wn_bothhouses_c.csv, population_total.csv</csv>
+    <sep>,</sep>
+    
+  </input>
+  
+  <output>
+    
+    <country>Afghanistan</country>
+    <year>2002</year>
+    <pred_csv>inflation_annual_percent.csv</pred_csv>
+    
+  </output>
+</config>
